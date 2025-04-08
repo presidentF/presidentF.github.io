@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fairness or efficiency?"
+title: "Debates"
 author_profile: true
 redirect_from: 
   - /about/
