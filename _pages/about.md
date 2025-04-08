@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Fairness or efficiency?
 
-## Fairness or efficiency?
-
-**
 -**the common dilemma of urban planning and personal stress management**
