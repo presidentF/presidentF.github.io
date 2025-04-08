@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Group 4"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "United kingdom"
   employer         : "Newcastle University"
   uri              : # URL
